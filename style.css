@@ -46,6 +46,7 @@ header h1:hover {
   justify-content: center;
   flex-direction: column;
   padding: 10px;
+  text-align: center;
 }
 
 #presente p {
